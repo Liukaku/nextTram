@@ -1,0 +1,1390 @@
+{
+  "value": [
+    {
+      "Id": 695,
+      "StationLocation": "Manchester Airport",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 696,
+      "StationLocation": "Manchester Airport",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 697,
+      "StationLocation": "Baguley",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 698,
+      "StationLocation": "Baguley",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 699,
+      "StationLocation": "Benchill",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 700,
+      "StationLocation": "Benchill",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 701,
+      "StationLocation": "Barlow Moor Road",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 702,
+      "StationLocation": "Barlow Moor Road",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 703,
+      "StationLocation": "Crossacres",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 704,
+      "StationLocation": "Crossacres",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 705,
+      "StationLocation": "Martinscroft",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 706,
+      "StationLocation": "Martinscroft",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 707,
+      "StationLocation": "Moor Road",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 708,
+      "StationLocation": "Moor Road",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 709,
+      "StationLocation": "Northern Moor",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 710,
+      "StationLocation": "Northern Moor",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 711,
+      "StationLocation": "Peel Hall",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 712,
+      "StationLocation": "Peel Hall",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 713,
+      "StationLocation": "Robinswood Road",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 714,
+      "StationLocation": "Robinswood Road",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 715,
+      "StationLocation": "Roundthorn",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 716,
+      "StationLocation": "Roundthorn",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 717,
+      "StationLocation": "Roundthorn",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 718,
+      "StationLocation": "Roundthorn",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 719,
+      "StationLocation": "Shadowmoss",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 720,
+      "StationLocation": "Shadowmoss",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 721,
+      "StationLocation": "Sale Water Park",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 722,
+      "StationLocation": "Sale Water Park",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 723,
+      "StationLocation": "Wythenshawe Park",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 724,
+      "StationLocation": "Wythenshawe Park",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 725,
+      "StationLocation": "Wythenshawe Town Centre",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 726,
+      "StationLocation": "Wythenshawe Town Centre",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 727,
+      "StationLocation": "Wythenshawe Town Centre",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 728,
+      "StationLocation": "Altrincham",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 729,
+      "StationLocation": "Altrincham",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 730,
+      "StationLocation": "Brooklands",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 731,
+      "StationLocation": "Brooklands",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 732,
+      "StationLocation": "Dane Road",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 733,
+      "StationLocation": "Dane Road",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 734,
+      "StationLocation": "Deansgate - Castlefield",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 735,
+      "StationLocation": "Deansgate - Castlefield",
+      "Direction": "Incoming",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 736,
+      "StationLocation": "Deansgate - Castlefield",
+      "Direction": "Outgoing",
+      "Dest0": ""
+    },
+    {
+      "Id": 737,
+      "StationLocation": "Navigation Road",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 738,
+      "StationLocation": "Navigation Road",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 739,
+      "StationLocation": "Old Trafford",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 740,
+      "StationLocation": "Old Trafford",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 741,
+      "StationLocation": "Sale",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 742,
+      "StationLocation": "Sale",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 743,
+      "StationLocation": "Shudehill",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 744,
+      "StationLocation": "Shudehill",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 745,
+      "StationLocation": "Stretford",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 746,
+      "StationLocation": "Stretford",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 747,
+      "StationLocation": "Trafford Bar",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 748,
+      "StationLocation": "Trafford Bar",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 749,
+      "StationLocation": "Timperley",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 750,
+      "StationLocation": "Timperley",
+      "Direction": "Outgoing",
+      "Dest0": "Altrincham"
+    },
+    {
+      "Id": 751,
+      "StationLocation": "Victoria",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 752,
+      "StationLocation": "Victoria",
+      "Direction": "Incoming",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 753,
+      "StationLocation": "Victoria",
+      "Direction": "Outgoing",
+      "Dest0": ""
+    },
+    {
+      "Id": 754,
+      "StationLocation": "Victoria",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 755,
+      "StationLocation": "Abraham Moss",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 756,
+      "StationLocation": "Abraham Moss",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 757,
+      "StationLocation": "Bowker Vale",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 758,
+      "StationLocation": "Bowker Vale",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 759,
+      "StationLocation": "Besses O\u2019 Th\u2019 Barn",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 760,
+      "StationLocation": "Besses O\u2019 Th\u2019 Barn",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 761,
+      "StationLocation": "Bury",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 762,
+      "StationLocation": "Bury",
+      "Direction": "Incoming",
+      "Dest0": ""
+    },
+    {
+      "Id": 763,
+      "StationLocation": "Crumpsall",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 764,
+      "StationLocation": "Crumpsall",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 765,
+      "StationLocation": "Heaton Park",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 766,
+      "StationLocation": "Heaton Park",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 767,
+      "StationLocation": "Market Street",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 768,
+      "StationLocation": "Market Street",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 769,
+      "StationLocation": "Piccadilly Gardens",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 770,
+      "StationLocation": "Piccadilly Gardens",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 771,
+      "StationLocation": "Piccadilly Gardens",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 772,
+      "StationLocation": "Piccadilly Gardens",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 773,
+      "StationLocation": "Piccadilly",
+      "Direction": "Outgoing",
+      "Dest0": "Terminates Here"
+    },
+    {
+      "Id": 774,
+      "StationLocation": "Piccadilly",
+      "Direction": "Incoming",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 775,
+      "StationLocation": "Prestwich",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 776,
+      "StationLocation": "Prestwich",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 777,
+      "StationLocation": "Queens Road",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 778,
+      "StationLocation": "Queens Road",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 779,
+      "StationLocation": "Radcliffe",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 780,
+      "StationLocation": "Radcliffe",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 781,
+      "StationLocation": "Whitefield",
+      "Direction": "Incoming",
+      "Dest0": "Piccadilly"
+    },
+    {
+      "Id": 782,
+      "StationLocation": "Whitefield",
+      "Direction": "Outgoing",
+      "Dest0": "Bury"
+    },
+    {
+      "Id": 783,
+      "StationLocation": "Ashton-Under-Lyne",
+      "Direction": "Outgoing",
+      "Dest0": ""
+    },
+    {
+      "Id": 784,
+      "StationLocation": "Ashton-Under-Lyne",
+      "Direction": "Incoming",
+      "Dest0": ""
+    },
+    {
+      "Id": 785,
+      "StationLocation": "Ashton-Under-Lyne",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 786,
+      "StationLocation": "Ashton-Under-Lyne",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 787,
+      "StationLocation": "Ashton Moss",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 788,
+      "StationLocation": "Ashton Moss",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 789,
+      "StationLocation": "Ashton West",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 790,
+      "StationLocation": "Ashton West",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 791,
+      "StationLocation": "Audenshaw",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 792,
+      "StationLocation": "Audenshaw",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 793,
+      "StationLocation": "Cemetery Road",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 794,
+      "StationLocation": "Cemetery Road",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 795,
+      "StationLocation": "Clayton Hall",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 796,
+      "StationLocation": "Clayton Hall",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 797,
+      "StationLocation": "Clayton Hall",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 798,
+      "StationLocation": "Droylsden",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 799,
+      "StationLocation": "Droylsden",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 800,
+      "StationLocation": "Edge Lane",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 801,
+      "StationLocation": "Edge Lane",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 802,
+      "StationLocation": "Edge Lane",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 803,
+      "StationLocation": "Edge Lane",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 804,
+      "StationLocation": "Holt Town",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 805,
+      "StationLocation": "Holt Town",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 806,
+      "StationLocation": "New Islington",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 807,
+      "StationLocation": "New Islington",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 808,
+      "StationLocation": "Etihad Campus",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 809,
+      "StationLocation": "Etihad Campus",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 810,
+      "StationLocation": "Etihad Campus",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 811,
+      "StationLocation": "Etihad Campus",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 812,
+      "StationLocation": "Velopark",
+      "Direction": "Outgoing",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 813,
+      "StationLocation": "Velopark",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 814,
+      "StationLocation": "Velopark",
+      "Direction": "Incoming",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 815,
+      "StationLocation": "Anchorage",
+      "Direction": "Incoming",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 816,
+      "StationLocation": "Anchorage",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 817,
+      "StationLocation": "Broadway",
+      "Direction": "Incoming",
+      "Dest0": "Ashton via MCUK"
+    },
+    {
+      "Id": 818,
+      "StationLocation": "Broadway",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 819,
+      "StationLocation": "Cornbrook",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 820,
+      "StationLocation": "Cornbrook",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 821,
+      "StationLocation": "Cornbrook",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 822,
+      "StationLocation": "Cornbrook",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 823,
+      "StationLocation": "Eccles",
+      "Direction": "Incoming",
+      "Dest0": "Ashton via MCUK"
+    },
+    {
+      "Id": 824,
+      "StationLocation": "Exchange Quay",
+      "Direction": "Incoming",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 825,
+      "StationLocation": "Exchange Quay",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 826,
+      "StationLocation": "Exchange Square",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 827,
+      "StationLocation": "Exchange Square",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 828,
+      "StationLocation": "Harbour City",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 829,
+      "StationLocation": "Harbour City",
+      "Direction": "Incoming",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 830,
+      "StationLocation": "Ladywell",
+      "Direction": "Incoming",
+      "Dest0": "Ashton via MCUK"
+    },
+    {
+      "Id": 831,
+      "StationLocation": "Ladywell",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 832,
+      "StationLocation": "Langworthy",
+      "Direction": "Incoming",
+      "Dest0": "Ashton via MCUK"
+    },
+    {
+      "Id": 833,
+      "StationLocation": "Langworthy",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 834,
+      "StationLocation": "MediaCityUK",
+      "Direction": "Incoming",
+      "Dest0": ""
+    },
+    {
+      "Id": 835,
+      "StationLocation": "MediaCityUK",
+      "Direction": "Incoming",
+      "Dest0": ""
+    },
+    {
+      "Id": 836,
+      "StationLocation": "MediaCityUK",
+      "Direction": "Incoming",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 837,
+      "StationLocation": "MediaCityUK",
+      "Direction": "Incoming",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 838,
+      "StationLocation": "Pomona",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 839,
+      "StationLocation": "Pomona",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 840,
+      "StationLocation": "Salford Quays",
+      "Direction": "Incoming",
+      "Dest0": "Ashton-under-Lyne"
+    },
+    {
+      "Id": 841,
+      "StationLocation": "Salford Quays",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles via MediaCityUK"
+    },
+    {
+      "Id": 842,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 843,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 844,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 845,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 846,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 847,
+      "StationLocation": "St Peter's Square",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 848,
+      "StationLocation": "Weaste",
+      "Direction": "Outgoing",
+      "Dest0": "Eccles"
+    },
+    {
+      "Id": 849,
+      "StationLocation": "Weaste",
+      "Direction": "Incoming",
+      "Dest0": "Ashton via MCUK"
+    },
+    {
+      "Id": 850,
+      "StationLocation": "Central Park",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 851,
+      "StationLocation": "Central Park",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 852,
+      "StationLocation": "Derker",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 853,
+      "StationLocation": "Derker",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 854,
+      "StationLocation": "Failsworth",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 855,
+      "StationLocation": "Failsworth",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 856,
+      "StationLocation": "Freehold",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 857,
+      "StationLocation": "Freehold",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 858,
+      "StationLocation": "Hollinwood",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 859,
+      "StationLocation": "Hollinwood",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 860,
+      "StationLocation": "Kingsway Business Park",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 861,
+      "StationLocation": "Kingsway Business Park",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 862,
+      "StationLocation": "Milnrow",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 863,
+      "StationLocation": "Milnrow",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 864,
+      "StationLocation": "Monsall",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 865,
+      "StationLocation": "Monsall",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 866,
+      "StationLocation": "Newbold",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 867,
+      "StationLocation": "Newbold",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 868,
+      "StationLocation": "Newhey",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 869,
+      "StationLocation": "Newhey",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 870,
+      "StationLocation": "Newton Heath and Moston",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 871,
+      "StationLocation": "Newton Heath and Moston",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 872,
+      "StationLocation": "Oldham Central",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 873,
+      "StationLocation": "Oldham Central",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 874,
+      "StationLocation": "Oldham Central",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 875,
+      "StationLocation": "Oldham Central",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 876,
+      "StationLocation": "Oldham King Street",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 877,
+      "StationLocation": "Oldham King Street",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 878,
+      "StationLocation": "Oldham Mumps",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 879,
+      "StationLocation": "Oldham Mumps",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 880,
+      "StationLocation": "Rochdale Railway Station",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 881,
+      "StationLocation": "Rochdale Railway Station",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 882,
+      "StationLocation": "Rochdale Railway Station",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 883,
+      "StationLocation": "Rochdale Railway Station",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 884,
+      "StationLocation": "Rochdale Town Centre",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 885,
+      "StationLocation": "Rochdale Town Centre",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 886,
+      "StationLocation": "Rochdale Town Centre",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 887,
+      "StationLocation": "Rochdale Town Centre",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 888,
+      "StationLocation": "Shaw and Crompton",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 889,
+      "StationLocation": "Shaw and Crompton",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 890,
+      "StationLocation": "Shaw and Crompton",
+      "Direction": "Incoming",
+      "Dest0": ""
+    },
+    {
+      "Id": 891,
+      "StationLocation": "South Chadderton",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 892,
+      "StationLocation": "South Chadderton",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 893,
+      "StationLocation": "Westwood",
+      "Direction": "Outgoing",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 894,
+      "StationLocation": "Westwood",
+      "Direction": "Incoming",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 895,
+      "StationLocation": "Burton Road",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 896,
+      "StationLocation": "Burton Road",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 897,
+      "StationLocation": "Chorlton",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 898,
+      "StationLocation": "Chorlton",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 899,
+      "StationLocation": "Didsbury Village",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 900,
+      "StationLocation": "Didsbury Village",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 901,
+      "StationLocation": "East Didsbury",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 902,
+      "StationLocation": "East Didsbury",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 903,
+      "StationLocation": "East Didsbury",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 904,
+      "StationLocation": "East Didsbury",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 905,
+      "StationLocation": "Firswood",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport"
+    },
+    {
+      "Id": 906,
+      "StationLocation": "Firswood",
+      "Direction": "Incoming",
+      "Dest0": "Victoria"
+    },
+    {
+      "Id": 907,
+      "StationLocation": "St Werburgh\u2019s Road",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 908,
+      "StationLocation": "St Werburgh\u2019s Road",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 909,
+      "StationLocation": "West Didsbury",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 910,
+      "StationLocation": "West Didsbury",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 911,
+      "StationLocation": "Withington",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury"
+    },
+    {
+      "Id": 912,
+      "StationLocation": "Withington",
+      "Direction": "Incoming",
+      "Dest0": "Rochdale Town Centre"
+    },
+    {
+      "Id": 913,
+      "StationLocation": "Barton Dock Road",
+      "Direction": "Incoming",
+      "Dest0": "The Trafford Centre"
+    },
+    {
+      "Id": 914,
+      "StationLocation": "Barton Dock Road",
+      "Direction": "Outgoing",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 915,
+      "StationLocation": "Imperial War Museum",
+      "Direction": "Outgoing",
+      "Dest0": "The Trafford Centre"
+    },
+    {
+      "Id": 916,
+      "StationLocation": "Imperial War Museum",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 917,
+      "StationLocation": "The Trafford Centre",
+      "Direction": "Outgoing",
+      "Dest0": ""
+    },
+    {
+      "Id": 918,
+      "StationLocation": "The Trafford Centre",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 919,
+      "StationLocation": "Wharfside",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 920,
+      "StationLocation": "Wharfside",
+      "Direction": "Outgoing",
+      "Dest0": "The Trafford Centre"
+    },
+    {
+      "Id": 921,
+      "StationLocation": "Village",
+      "Direction": "Outgoing",
+      "Dest0": "The Trafford Centre"
+    },
+    {
+      "Id": 922,
+      "StationLocation": "Village",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 923,
+      "StationLocation": "Parkway",
+      "Direction": "Outgoing",
+      "Dest0": "The Trafford Centre"
+    },
+    {
+      "Id": 924,
+      "StationLocation": "Parkway",
+      "Direction": "Incoming",
+      "Dest0": "Cornbrook"
+    },
+    {
+      "Id": 925,
+      "StationLocation": "Crumpsall",
+      "Direction": "Incoming/Outgoing",
+      "Dest0": ""
+    }
+  ]
+}
