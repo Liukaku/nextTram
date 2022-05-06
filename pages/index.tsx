@@ -1,11 +1,21 @@
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import Search from "../components/Search";
+import CTX from "../components/util/store";
 
 const IndexPage = () => {
+  const [searchID, updateSearch] = useState<number>();
+
+  useEffect(() => {
+    console.log(searchID);
+  }, [searchID]);
+
   return (
-    <div className="w-10 mx-auto bg-slate-700">
-      <Search />
-    </div>
+    <CTX.Provider value={[searchID, updateSearch]}>
+      <div className="w-10 mx-auto bg-slate-700">
+        <Search />
+      </div>
+    </CTX.Provider>
   );
 };
 

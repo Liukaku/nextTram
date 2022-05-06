@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import stops from "./util/stops.json";
+import CTX from "./util/store";
 
 interface StopObj {
   Id: number;
@@ -9,6 +10,7 @@ interface StopObj {
 }
 
 const Search = (props) => {
+  const [seachID, updateSearchID] = useContext(CTX);
   const [searchVal, updateSearch] = useState<string>("");
   const [searchResults, updateResults] = useState<Array<StopObj>>([]);
 
@@ -42,9 +44,9 @@ const Search = (props) => {
   const selectOption = (e: React.MouseEvent) => {
     const target = e.target as HTMLParagraphElement;
     if (target.tagName !== "DIV") {
-      console.log(target.parentElement.id);
+      updateSearchID(target.parentElement.id);
     } else {
-      console.log(target.id);
+      updateSearchID(target.id);
     }
   };
 
