@@ -6,9 +6,17 @@ interface LoadingObj {
   awaiting: Boolean;
 }
 
+interface StopObj {
+  Id: number;
+  StationLocation: string;
+  Direction: string;
+  Dest0: string;
+  MessageBoard: String;
+}
+
 const Results = () => {
   const [searchID, updateSearchID] = useContext(CTX);
-  const [searchResults, updateResults] = useState<Array<Object>>([]);
+  const [searchResults, updateResults] = useState<Array<StopObj>>([]);
   const [loading, updateLoading] = useState<LoadingObj>({
     searched: false,
     awaiting: false,
