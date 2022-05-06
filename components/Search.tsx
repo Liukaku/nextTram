@@ -13,10 +13,7 @@ const Search = (props) => {
   const [seachID, updateSearchID] = useContext(CTX);
   const [searchVal, updateSearch] = useState<string>("");
   const [searchResults, updateResults] = useState<Array<StopObj>>([]);
-
-  useEffect(() => {
-    console.log(stops.value);
-  }, []);
+  const [openSeach, toggleSeach] = useState<Boolean>(false);
 
   useEffect(() => {
     let stopArr = [];
@@ -29,7 +26,9 @@ const Search = (props) => {
   }, [searchVal]);
 
   useEffect(() => {
-    console.log(searchResults);
+    if (searchVal.split("").length === 1) {
+      toggleSeach(true);
+    }
   }, [searchResults]);
 
   const mouseOver = (e: React.MouseEvent, upDown: Boolean) => {
@@ -41,12 +40,15 @@ const Search = (props) => {
     }
   };
 
-  const selectOption = (e: React.MouseEvent) => {
+  const selectOption = (e: React.MouseEvent, theStop: StopObj) => {
     const target = e.target as HTMLParagraphElement;
     if (target.tagName !== "DIV") {
       updateSearchID(target.parentElement.id);
+      toggleSeach(false);
+      updateSearch(`${theStop.StationLocation} to ${theStop.Dest0}`);
     } else {
       updateSearchID(target.id);
+      toggleSeach(false);
     }
   };
 
@@ -61,7 +63,7 @@ const Search = (props) => {
         }}
       />
       <div className="w-auto absolute">
-        {searchVal
+        {openSeach
           ? searchResults.map((val: StopObj, n: number) => {
               return (
                 <div
@@ -74,7 +76,7 @@ const Search = (props) => {
                     mouseOver(e, false);
                   }}
                   onClick={(e) => {
-                    selectOption(e);
+                    selectOption(e, val);
                   }}
                 >
                   <span>{val.StationLocation}</span>
