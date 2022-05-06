@@ -95,6 +95,7 @@ const Search = (props) => {
           ? searchResults.map((val: StopObj, n: number) => {
               return (
                 <div
+                  key={val.Id.toString()}
                   id={val.Id.toString()}
                   className={`flex ${
                     val.Id == searchID
