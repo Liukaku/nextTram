@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import stops from "./util/stops.json";
 import CTX from "./util/store";
 
@@ -10,10 +10,11 @@ interface StopObj {
 }
 
 const Search = (props) => {
-  const [seachID, updateSearchID] = useContext(CTX);
+  const [searchID, updateSearchID] = useContext(CTX);
   const [searchVal, updateSearch] = useState<string>("");
   const [searchResults, updateResults] = useState<Array<StopObj>>([]);
   const [openSeach, toggleSeach] = useState<Boolean>(false);
+  const wrapperRef = useRef(null);
 
   useEffect(() => {
     let stopArr = [];
@@ -26,17 +27,38 @@ const Search = (props) => {
   }, [searchVal]);
 
   useEffect(() => {
-    if (searchVal.split("").length === 1) {
+    if (searchVal.split("").length) {
       toggleSeach(true);
+    } else if (searchVal.split("").length === 0) {
+      toggleSeach(false);
     }
   }, [searchResults]);
+
+  const useOutsideAlerter = (ref: React.RefObject<any>) => {
+    useEffect(() => {
+      /**
+       * Alert if clicked on outside of element
+       */
+      const handleClickOutside = (event: MouseEvent) => {
+        if (ref.current && !ref.current.contains(event.target) && !openSeach) {
+          toggleSeach(false);
+        }
+      };
+      // Bind the event listener
+      document.addEventListener("mousedown", handleClickOutside);
+      return () => {
+        // Unbind the event listener on clean up
+        document.removeEventListener("mousedown", handleClickOutside);
+      };
+    }, [ref]);
+  };
 
   const mouseOver = (e: React.MouseEvent, upDown: Boolean) => {
     const target = e.target as HTMLParagraphElement;
     if (upDown) {
-      target.parentElement.classList.add("bg-red-300");
+      target.parentElement.classList.add("bg-yellow-200");
     } else {
-      target.parentElement.classList.remove("bg-red-300");
+      target.parentElement.classList.remove("bg-yellow-200");
     }
   };
 
@@ -52,9 +74,12 @@ const Search = (props) => {
     }
   };
 
+  useOutsideAlerter(wrapperRef);
+
   return (
     <div>
       <input
+        className="text-black w-64 border-2 border-t-gray-600 border-r-gray-600 border-l-gray-400 border-b-gray-400"
         type={"text"}
         placeholder="Begin typing to Search"
         value={searchVal}
@@ -62,13 +87,20 @@ const Search = (props) => {
           updateSearch(e.target.value);
         }}
       />
-      <div className="w-auto absolute">
+      <div
+        ref={wrapperRef}
+        className={`w-auto absolute border ${openSeach ? `border-black` : ``}`}
+      >
         {openSeach
           ? searchResults.map((val: StopObj, n: number) => {
               return (
                 <div
                   id={val.Id.toString()}
-                  className="flex"
+                  className={`flex ${
+                    val.Id == searchID
+                      ? `border border-dotted border-black`
+                      : ``
+                  }`}
                   onMouseEnter={(e) => {
                     mouseOver(e, true);
                   }}
