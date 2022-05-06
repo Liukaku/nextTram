@@ -30,9 +30,11 @@ const Results = () => {
       const stops = await results.json();
       return stops;
     };
-    fetchData().then((res) => {
-      console.log(res);
-    });
+    if (searchID) {
+      fetchData().then((res) => {
+        console.log(res);
+      });
+    }
   }, [searchID]);
 
   return (
