@@ -9,8 +9,8 @@ const IndexPage = () => {
   const [searchID, updateSearch] = useState<number>();
 
   useEffect(() => {
-    console.log(searchID);
-  }, [searchID]);
+    document.getElementsByTagName("body")[0].style.backgroundColor = "#E5E7EB";
+  }, []);
 
   return (
     <CTX.Provider value={[searchID, updateSearch]}>

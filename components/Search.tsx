@@ -57,10 +57,10 @@ const Search = (props) => {
     const target = e.target as HTMLParagraphElement;
     if (upDown) {
       target.parentElement.classList.add("bg-yellow-200");
-      target.parentElement.classList.remove("bg-white");
+      target.parentElement.classList.remove("bg-gray-200");
     } else {
       target.parentElement.classList.remove("bg-yellow-200");
-      target.parentElement.classList.add("bg-white");
+      target.parentElement.classList.add("bg-gray-200");
     }
   };
 
@@ -99,7 +99,7 @@ const Search = (props) => {
                 <div
                   key={val.Id.toString()}
                   id={val.Id.toString()}
-                  className={`flex bg-white cursor-pointer ${
+                  className={`flex bg-gray-200 cursor-pointer ${
                     val.Id == searchID
                       ? `border border-dotted border-black`
                       : ``
