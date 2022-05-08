@@ -8,7 +8,7 @@ interface TimeObj {
 
 const TimeResult = (props: TimeObj) => {
   return (
-    <div className="z-0 w-2/5 text-center first:mt-10 mx-auto border-2 bg-gray-300 border-r-gray-500 border-b-gray-500 border-l-gray-100 border-t-gray-100">
+    <div className="z-0 md:w-2/5 w-4/5 text-center first:mt-10 mx-auto border-2 bg-gray-300 border-r-gray-500 border-b-gray-500 border-l-gray-100 border-t-gray-100">
       <h1>
         Destination: <strong>{props.Dest}</strong>
       </h1>
