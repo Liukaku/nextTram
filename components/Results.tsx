@@ -1,4 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
+import TimeResult from "./TimeResult";
 import CTX from "./util/store";
 
 interface LoadingObj {
@@ -16,11 +17,13 @@ interface StopObj {
 
 const Results = () => {
   const [searchID, updateSearchID] = useContext(CTX);
-  const [searchResults, updateResults] = useState<Array<StopObj>>([]);
+  const [searchResults, updateResults] = useState<StopObj>();
   const [loading, updateLoading] = useState<LoadingObj>({
     searched: false,
     awaiting: false,
   });
+
+  const _looper = [0, 1, 2, 3];
 
   useEffect(() => {
     const fetchData = async () => {
@@ -42,8 +45,10 @@ const Results = () => {
       {loading.searched ? (
         loading.awaiting ? (
           <div>Waiting</div>
-        ) : searchResults.length ? (
-          <div>success!</div>
+        ) : Object.keys(searchResults).length ? (
+          _looper.map((val) => {
+            return <TimeResult />;
+          })
         ) : (
           <div>no response</div>
         )
