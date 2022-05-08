@@ -34,8 +34,10 @@ const Results = () => {
       return stops;
     };
     if (searchID) {
+      updateLoading({ searched: true, awaiting: true });
       fetchData().then((res) => {
-        console.log(res);
+        updateLoading({ searched: true, awaiting: false });
+        updateResults(res);
       });
     }
   }, [searchID]);
@@ -47,7 +49,16 @@ const Results = () => {
           <div>Waiting</div>
         ) : Object.keys(searchResults).length ? (
           _looper.map((val) => {
-            return <TimeResult />;
+            if (searchResults[`Dest${val}`] !== "") {
+              return (
+                <TimeResult
+                  key={`${val}`}
+                  Dest={searchResults[`Dest${val}`]}
+                  Carriages={searchResults[`Carriages${val}`]}
+                  Wait={searchResults[`Wait${val}`]}
+                />
+              );
+            }
           })
         ) : (
           <div>no response</div>

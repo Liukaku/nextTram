@@ -18,7 +18,7 @@ const IndexPage = () => {
         <title>Tram Stop Times</title>
         <link rel="icon" type="image/x-icon" href="/favicon.png" />
       </Head>
-      <div className="w-10 mx-auto bg-slate-700">
+      <div className="w-64 mt-20 mx-auto">
         <Search />
         <Results />
       </div>
