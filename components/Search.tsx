@@ -79,7 +79,7 @@ const Search = (props) => {
   useOutsideAlerter(wrapperRef);
 
   return (
-    <div>
+    <div className="mx-auto w-64">
       <input
         className="text-black w-64 border-2 border-t-gray-600 border-r-gray-600 border-l-gray-400 border-b-gray-400"
         type={"text"}

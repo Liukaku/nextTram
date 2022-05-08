@@ -9,7 +9,7 @@ const IndexPage = () => {
   const [searchID, updateSearch] = useState<number>();
 
   useEffect(() => {
-    document.getElementsByTagName("body")[0].style.backgroundColor = "#E5E7EB";
+    document.getElementsByTagName("body")[0].style.backgroundColor = "#D1D5DB";
   }, []);
 
   return (
@@ -18,7 +18,8 @@ const IndexPage = () => {
         <title>Tram Stop Times</title>
         <link rel="icon" type="image/x-icon" href="/favicon.png" />
       </Head>
-      <div className="w-64 mt-20 mx-auto">
+
+      <div className="w-4/5 mt-20 mx-auto border-2 border-b-gray-500 border-l-gray-500 border-r-gray-100 border-t-gray-100">
         <Search />
         <Results />
       </div>
