@@ -115,8 +115,8 @@ const Search = (props) => {
                   }}
                 >
                   <span>{val.StationLocation}</span>
-                  <span>&nbsp;to&nbsp;</span>
-                  <span>{val.Dest0}</span>
+                  <span className="text-gray-700">&nbsp;to&nbsp;</span>
+                  <span className="text-gray-700">{val.Dest0}</span>
                 </div>
               );
             })
