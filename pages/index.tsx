@@ -22,8 +22,8 @@ const IndexPage = () => {
       </Head>
 
       <motion.div
-        initial={{ y: 600, x: 100, opacity: 0, width: 0 }}
-        animate={{ y: 0, x: 0, opacity: 1, width: "60%" }}
+        initial={{ y: 600, x: 100, opacity: 0 }}
+        animate={{ y: 0, x: 0, opacity: 1 }}
         transition={{ duration: 1, ease: "anticipate" }}
         className="w-4/5 mt-20 mx-auto border-2 pb-10 bg-gray-200  border-b-gray-500 border-l-gray-500 border-r-gray-100 border-t-gray-100 shadow-xl"
       >
