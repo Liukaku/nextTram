@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
 import stops from "./util/stops.json";
 import CTX from "./util/store";
+import { motion, AnimatePresence } from "framer-motion";
 
 interface StopObj {
   Id: number;
@@ -93,34 +94,40 @@ const Search = (props) => {
         ref={wrapperRef}
         className={`w-auto absolute border ${openSeach ? `border-black` : ``}`}
       >
-        {openSeach
-          ? searchResults.map((val: StopObj, n: number) => {
-              return (
-                <div
-                  key={val.Id.toString()}
-                  id={val.Id.toString()}
-                  className={`flex bg-gray-200 cursor-pointer ${
-                    val.Id == searchID
-                      ? `border border-dotted border-black`
-                      : ``
-                  }`}
-                  onMouseEnter={(e) => {
-                    mouseOver(e, true);
-                  }}
-                  onMouseLeave={(e) => {
-                    mouseOver(e, false);
-                  }}
-                  onClick={(e) => {
-                    selectOption(e, val);
-                  }}
-                >
-                  <span>{val.StationLocation}</span>
-                  <span className="text-gray-700">&nbsp;to&nbsp;</span>
-                  <span className="text-gray-700">{val.Dest0}</span>
-                </div>
-              );
-            })
-          : ""}
+        <AnimatePresence>
+          {openSeach
+            ? searchResults.map((val: StopObj, n: number) => {
+                return (
+                  <motion.div
+                    initial={{ y: -5, opacity: 0 }}
+                    animate={{ y: 0, x: 0, opacity: 1 }}
+                    exit={{ y: -5, opacity: 0 }}
+                    transition={{ duration: 0.1 }}
+                    key={val.Id.toString()}
+                    id={val.Id.toString()}
+                    className={`flex bg-gray-200 cursor-pointer ${
+                      val.Id == searchID
+                        ? `border border-dotted border-black`
+                        : ``
+                    }`}
+                    onMouseEnter={(e) => {
+                      mouseOver(e, true);
+                    }}
+                    onMouseLeave={(e) => {
+                      mouseOver(e, false);
+                    }}
+                    onClick={(e) => {
+                      selectOption(e, val);
+                    }}
+                  >
+                    <span>{val.StationLocation}</span>
+                    <span className="text-gray-700">&nbsp;to&nbsp;</span>
+                    <span className="text-gray-700">{val.Dest0}</span>
+                  </motion.div>
+                );
+              })
+            : ""}
+        </AnimatePresence>
       </div>
     </div>
   );
