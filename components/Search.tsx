@@ -111,7 +111,9 @@ const Search = (props) => {
                     transition={{ duration: 0.1 }}
                     key={val.Id.toString()}
                     id={val.Id.toString()}
-                    className={`flex bg-white cursor-pointer ${
+                    className={`flex ${
+                      openSeach ? `bg-white` : `bg-gray-300`
+                    } cursor-pointer ${
                       val.Id == searchID
                         ? `border border-dotted border-black`
                         : ``
@@ -127,7 +129,7 @@ const Search = (props) => {
                     }}
                   >
                     <span>{val.StationLocation}</span>
-                    <span className="text-gray-700">&nbsp;to&nbsp;</span>
+                    <span className="text-gray-700">&nbsp;towards&nbsp;</span>
                     <span className="text-gray-700">{val.Dest0}</span>
                   </motion.div>
                 );
