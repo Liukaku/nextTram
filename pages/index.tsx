@@ -11,7 +11,7 @@ const IndexPage = () => {
 
   useEffect(() => {
     document.getElementsByTagName("body")[0].style.background =
-      "url(/background.png)";
+      "#009 url(/background.png) repeat scroll 100% 100%";
   }, []);
 
   return (
@@ -25,7 +25,7 @@ const IndexPage = () => {
         initial={{ y: 600, x: 100, opacity: 0 }}
         animate={{ y: 0, x: 0, opacity: 1 }}
         transition={{ duration: 1, ease: "anticipate" }}
-        className="w-4/5 mt-20 mx-auto border-2 pb-10 bg-gray-300  border-b-gray-500 border-l-gray-500 border-r-gray-100 border-t-gray-100 shadow-xl"
+        className="md:w-4/5 w-10/12 mt-20 mx-auto border-2 pb-10 bg-gray-300  border-b-gray-500 border-l-gray-500 border-r-gray-100 border-t-gray-100 shadow-xl"
       >
         <div className="p-1 text-xl text-white mb-5 headerBarGrey leading-none bg-zinc-300  border-t-zinc-200 border-r-zinc-200 border-l-zinc-400 border-b-zinc-400">
           Metrolink Tram Time Checker
