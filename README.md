@@ -12,3 +12,5 @@ This connects to a NodeJS Express API server which handles requests made to the 
 Yes the look was intentional
 
 ##
+
+![Example Image](https://github.com/Liukaku/nextTram/blob/main/firefox_48pd5EdpcW.png?raw=true)
