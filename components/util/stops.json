@@ -202,13 +202,13 @@
       "Id": 728,
       "StationLocation": "Altrincham",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 729,
       "StationLocation": "Altrincham",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 730,
@@ -226,7 +226,7 @@
       "Id": 732,
       "StationLocation": "Dane Road",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 733,
@@ -244,19 +244,19 @@
       "Id": 735,
       "StationLocation": "Deansgate - Castlefield",
       "Direction": "Incoming",
-      "Dest0": "Ashton-under-Lyne"
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 736,
       "StationLocation": "Deansgate - Castlefield",
       "Direction": "Outgoing",
-      "Dest0": ""
+      "Dest0": "Not in Service"
     },
     {
       "Id": 737,
       "StationLocation": "Navigation Road",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 738,
@@ -274,7 +274,7 @@
       "Id": 740,
       "StationLocation": "Old Trafford",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 741,
@@ -298,13 +298,13 @@
       "Id": 744,
       "StationLocation": "Shudehill",
       "Direction": "Outgoing",
-      "Dest0": "Bury"
+      "Dest0": "Victoria"
     },
     {
       "Id": 745,
       "StationLocation": "Stretford",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Bury"
     },
     {
       "Id": 746,
@@ -340,7 +340,7 @@
       "Id": 751,
       "StationLocation": "Victoria",
       "Direction": "Incoming",
-      "Dest0": "East Didsbury"
+      "Dest0": "Piccadilly"
     },
     {
       "Id": 752,
@@ -358,77 +358,77 @@
       "Id": 754,
       "StationLocation": "Victoria",
       "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "Dest0": "Bury"
     },
     {
       "Id": 755,
-      "StationLocation": "Abraham Moss",
+      "StationLocation": "Abraham Mos2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 756,
-      "StationLocation": "Abraham Moss",
+      "StationLocation": "Abraham Mos1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 757,
-      "StationLocation": "Bowker Vale",
+      "StationLocation": "Bowker Val2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 758,
-      "StationLocation": "Bowker Vale",
+      "StationLocation": "Bowker Val1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 759,
-      "StationLocation": "Besses O\u2019 Th\u2019 Barn",
+      "StationLocation": "Besses O\u2019 Th\u2019 Bar2",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Altrincham"
     },
     {
       "Id": 760,
-      "StationLocation": "Besses O\u2019 Th\u2019 Barn",
+      "StationLocation": "Besses O\u2019 Th\u2019 Bar1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 761,
-      "StationLocation": "Bury",
+      "StationLocation": "Bur2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 762,
-      "StationLocation": "Bury",
+      "StationLocation": "Bur1",
       "Direction": "Incoming",
-      "Dest0": ""
+      "Dest0": "Altrincham"
     },
     {
       "Id": 763,
-      "StationLocation": "Crumpsall",
+      "StationLocation": "Crumpsal2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 764,
-      "StationLocation": "Crumpsall",
+      "StationLocation": "Crumpsal1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 765,
-      "StationLocation": "Heaton Park",
+      "StationLocation": "Heaton Par1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 766,
-      "StationLocation": "Heaton Park",
+      "StationLocation": "Heaton Par2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
@@ -442,11 +442,11 @@
       "Id": 768,
       "StationLocation": "Market Street",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Manchester Airport"
     },
     {
       "Id": 769,
-      "StationLocation": "Piccadilly Gardens",
+      "StationLocation": "Piccadilly Garden2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
@@ -470,254 +470,254 @@
     },
     {
       "Id": 773,
-      "StationLocation": "Piccadilly",
+      "StationLocation": "Piccadilly Station",
       "Direction": "Outgoing",
-      "Dest0": "Terminates Here"
+      "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 774,
-      "StationLocation": "Piccadilly",
+      "StationLocation": "Piccadilly Station",
       "Direction": "Incoming",
-      "Dest0": "Bury"
+      "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 775,
-      "StationLocation": "Prestwich",
+      "StationLocation": "Prestwic2",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Altrincham"
     },
     {
       "Id": 776,
-      "StationLocation": "Prestwich",
+      "StationLocation": "Prestwic1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 777,
-      "StationLocation": "Queens Road",
+      "StationLocation": "Queens Roa2",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly"
+      "Dest0": "Altrincham"
     },
     {
       "Id": 778,
-      "StationLocation": "Queens Road",
+      "StationLocation": "Queens Roa1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 779,
-      "StationLocation": "Radcliffe",
+      "StationLocation": "Radcliff1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 780,
-      "StationLocation": "Radcliffe",
+      "StationLocation": "Radcliff2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 781,
-      "StationLocation": "Whitefield",
+      "StationLocation": "Whitefiel2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly"
     },
     {
       "Id": 782,
-      "StationLocation": "Whitefield",
+      "StationLocation": "Whitefiel1",
       "Direction": "Outgoing",
       "Dest0": "Bury"
     },
     {
       "Id": 783,
       "StationLocation": "Ashton-Under-Lyne",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": ""
     },
     {
       "Id": 784,
       "StationLocation": "Ashton-Under-Lyne",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": ""
     },
     {
       "Id": 785,
       "StationLocation": "Ashton-Under-Lyne",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 786,
       "StationLocation": "Ashton-Under-Lyne",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 787,
       "StationLocation": "Ashton Moss",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 788,
       "StationLocation": "Ashton Moss",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 789,
       "StationLocation": "Ashton West",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 790,
       "StationLocation": "Ashton West",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 791,
       "StationLocation": "Audenshaw",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 792,
       "StationLocation": "Audenshaw",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 793,
       "StationLocation": "Cemetery Road",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 794,
       "StationLocation": "Cemetery Road",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 795,
       "StationLocation": "Clayton Hall",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 796,
       "StationLocation": "Clayton Hall",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 797,
       "StationLocation": "Clayton Hall",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 798,
       "StationLocation": "Droylsden",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 799,
       "StationLocation": "Droylsden",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 800,
       "StationLocation": "Edge Lane",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 801,
       "StationLocation": "Edge Lane",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 802,
       "StationLocation": "Edge Lane",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 803,
       "StationLocation": "Edge Lane",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 804,
       "StationLocation": "Holt Town",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 805,
       "StationLocation": "Holt Town",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 806,
       "StationLocation": "New Islington",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 807,
       "StationLocation": "New Islington",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 808,
       "StationLocation": "Etihad Campus",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 809,
       "StationLocation": "Etihad Campus",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 810,
       "StationLocation": "Etihad Campus",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 811,
       "StationLocation": "Etihad Campus",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 812,
       "StationLocation": "Velopark",
-      "Direction": "Outgoing",
+      "AtcoCodrection": "Outgoing",
       "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 813,
       "StationLocation": "Velopark",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
       "Id": 814,
       "StationLocation": "Velopark",
-      "Direction": "Incoming",
+      "AtcoCodrection": "Incoming",
       "Dest0": "Eccles via MediaCityUK"
     },
     {
@@ -760,13 +760,13 @@
       "Id": 821,
       "StationLocation": "Cornbrook",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK"
+      "Dest0": "Altrincham"
     },
     {
       "Id": 822,
       "StationLocation": "Cornbrook",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK"
+      "Dest0": "Altrincham"
     },
     {
       "Id": 823,
@@ -790,7 +790,7 @@
       "Id": 826,
       "StationLocation": "Exchange Square",
       "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 827,
@@ -850,13 +850,13 @@
       "Id": 836,
       "StationLocation": "MediaCityUK",
       "Direction": "Incoming",
-      "Dest0": "Eccles"
+      "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 837,
       "StationLocation": "MediaCityUK",
       "Direction": "Incoming",
-      "Dest0": "Eccles"
+      "Dest0": "Ashton-under-Lyne"
     },
     {
       "Id": 838,
@@ -868,7 +868,7 @@
       "Id": 839,
       "StationLocation": "Pomona",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK"
+      "Dest0": "The Trafford Centre"
     },
     {
       "Id": 840,
@@ -880,7 +880,7 @@
       "Id": 841,
       "StationLocation": "Salford Quays",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK"
+      "Dest0": ""
     },
     {
       "Id": 842,
@@ -910,13 +910,13 @@
       "Id": 846,
       "StationLocation": "St Peter's Square",
       "Direction": "Incoming",
-      "Dest0": "Victoria"
+      "Dest0": "Bury"
     },
     {
       "Id": 847,
       "StationLocation": "St Peter's Square",
       "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 848,
@@ -933,379 +933,379 @@
     {
       "Id": 850,
       "StationLocation": "Central Park",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 851,
       "StationLocation": "Central Park",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 852,
       "StationLocation": "Derker",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 853,
       "StationLocation": "Derker",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 854,
       "StationLocation": "Failsworth",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 855,
       "StationLocation": "Failsworth",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 856,
       "StationLocation": "Freehold",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 857,
       "StationLocation": "Freehold",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 858,
       "StationLocation": "Hollinwood",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 859,
       "StationLocation": "Hollinwood",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 860,
       "StationLocation": "Kingsway Business Park",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 861,
       "StationLocation": "Kingsway Business Park",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 862,
       "StationLocation": "Milnrow",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 863,
       "StationLocation": "Milnrow",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 864,
       "StationLocation": "Monsall",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 865,
       "StationLocation": "Monsall",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 866,
       "StationLocation": "Newbold",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 867,
       "StationLocation": "Newbold",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 868,
       "StationLocation": "Newhey",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 869,
       "StationLocation": "Newhey",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 870,
       "StationLocation": "Newton Heath and Moston",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 871,
       "StationLocation": "Newton Heath and Moston",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 872,
       "StationLocation": "Oldham Central",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 873,
       "StationLocation": "Oldham Central",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 874,
       "StationLocation": "Oldham Central",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 875,
       "StationLocation": "Oldham Central",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 876,
       "StationLocation": "Oldham King Street",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 877,
       "StationLocation": "Oldham King Street",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 878,
       "StationLocation": "Oldham Mumps",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 879,
       "StationLocation": "Oldham Mumps",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 880,
       "StationLocation": "Rochdale Railway Station",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 881,
       "StationLocation": "Rochdale Railway Station",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 882,
       "StationLocation": "Rochdale Railway Station",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 883,
       "StationLocation": "Rochdale Railway Station",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 884,
       "StationLocation": "Rochdale Town Centre",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 885,
       "StationLocation": "Rochdale Town Centre",
-      "Direction": "Outgoing",
-      "Dest0": "East Didsbury"
+      "AtcoCodection": "Outgoing",
+      "Dest0": ""
     },
     {
       "Id": 886,
       "StationLocation": "Rochdale Town Centre",
-      "Direction": "Incoming",
-      "Dest0": "East Didsbury"
+      "AtcoCodection": "Incoming",
+      "Dest0": ""
     },
     {
       "Id": 887,
       "StationLocation": "Rochdale Town Centre",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 888,
       "StationLocation": "Shaw and Crompton",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 889,
       "StationLocation": "Shaw and Crompton",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 890,
       "StationLocation": "Shaw and Crompton",
-      "Direction": "Incoming",
-      "Dest0": ""
+      "AtcoCodection": "Incoming",
+      "Dest0": "East Didsbury"
     },
     {
       "Id": 891,
       "StationLocation": "South Chadderton",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 892,
       "StationLocation": "South Chadderton",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 893,
       "StationLocation": "Westwood",
-      "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 894,
       "StationLocation": "Westwood",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 895,
       "StationLocation": "Burton Road",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 896,
       "StationLocation": "Burton Road",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 897,
       "StationLocation": "Chorlton",
-      "Direction": "Outgoing",
-      "Dest0": "Manchester Airport"
+      "AtcoCodection": "Outgoing",
+      "Dest0": "East Didsbury"
     },
     {
       "Id": 898,
       "StationLocation": "Chorlton",
-      "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 899,
       "StationLocation": "Didsbury Village",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 900,
       "StationLocation": "Didsbury Village",
-      "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 901,
       "StationLocation": "East Didsbury",
-      "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 902,
       "StationLocation": "East Didsbury",
-      "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 903,
       "StationLocation": "East Didsbury",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 904,
       "StationLocation": "East Didsbury",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 905,
       "StationLocation": "Firswood",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "Manchester Airport"
     },
     {
       "Id": 906,
       "StationLocation": "Firswood",
-      "Direction": "Incoming",
-      "Dest0": "Victoria"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Shaw and Crompton"
     },
     {
       "Id": 907,
       "StationLocation": "St Werburgh\u2019s Road",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 908,
       "StationLocation": "St Werburgh\u2019s Road",
-      "Direction": "Incoming",
-      "Dest0": "Rochdale Town Centre"
+      "AtcoCodection": "Incoming",
+      "Dest0": "Victoria"
     },
     {
       "Id": 909,
       "StationLocation": "West Didsbury",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 910,
       "StationLocation": "West Didsbury",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "Rochdale Town Centre"
     },
     {
       "Id": 911,
       "StationLocation": "Withington",
-      "Direction": "Outgoing",
+      "AtcoCodection": "Outgoing",
       "Dest0": "East Didsbury"
     },
     {
       "Id": 912,
       "StationLocation": "Withington",
-      "Direction": "Incoming",
+      "AtcoCodection": "Incoming",
       "Dest0": "Rochdale Town Centre"
     },
     {
@@ -1382,9 +1382,9 @@
     },
     {
       "Id": 925,
-      "StationLocation": "Crumpsall",
+      "StationLocation": "Crumpsal3",
       "Direction": "Incoming/Outgoing",
-      "Dest0": ""
+      "Dest0": "Not in Service"
     }
   ]
 }
