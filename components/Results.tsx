@@ -48,18 +48,23 @@ const Results = () => {
         loading.awaiting ? (
           <div>Waiting</div>
         ) : Object.keys(searchResults).length ? (
-          _looper.map((val) => {
-            if (searchResults[`Dest${val}`] !== "") {
-              return (
-                <TimeResult
-                  key={`${val}`}
-                  Dest={searchResults[`Dest${val}`]}
-                  Carriages={searchResults[`Carriages${val}`]}
-                  Wait={searchResults[`Wait${val}`]}
-                />
-              );
-            }
-          })
+          <div>
+            {_looper.map((val) => {
+              if (searchResults[`Dest${val}`] !== "") {
+                return (
+                  <TimeResult
+                    key={`${val}`}
+                    Dest={searchResults[`Dest${val}`]}
+                    Carriages={searchResults[`Carriages${val}`]}
+                    Wait={searchResults[`Wait${val}`]}
+                  />
+                );
+              }
+            })}
+            <div className="z-0 md:w-2/5 w-4/5 text-center first:mt-10 mx-auto border-2 bg-gray-300 border-r-gray-500 border-b-gray-500 border-l-gray-100 border-t-gray-100 filter drop-shadow-xl">
+              <p>{searchResults.MessageBoard}</p>
+            </div>
+          </div>
         ) : (
           <div>no response</div>
         )
