@@ -58,10 +58,10 @@ const Search = (props) => {
     const target = e.target as HTMLParagraphElement;
     if (upDown) {
       target.parentElement.classList.add("bg-yellow-200");
-      target.parentElement.classList.remove("bg-gray-200");
+      target.parentElement.classList.remove("bg-white");
     } else {
       target.parentElement.classList.remove("bg-yellow-200");
-      target.parentElement.classList.add("bg-gray-200");
+      target.parentElement.classList.add("bg-white");
     }
   };
 
@@ -92,7 +92,13 @@ const Search = (props) => {
       />
       <div
         ref={wrapperRef}
-        className={`w-auto absolute border ${openSeach ? `border-black` : ``}`}
+        className={` ${
+          openSeach
+            ? `border-black ${
+                openSeach ? `bg-white` : `bg-gray-300`
+              } w-auto z-30 absolute border`
+            : `hidden`
+        }`}
       >
         <AnimatePresence>
           {openSeach
@@ -105,7 +111,7 @@ const Search = (props) => {
                     transition={{ duration: 0.1 }}
                     key={val.Id.toString()}
                     id={val.Id.toString()}
-                    className={`flex bg-gray-200 cursor-pointer ${
+                    className={`flex cursor-pointer ${
                       val.Id == searchID
                         ? `border border-dotted border-black`
                         : ``
