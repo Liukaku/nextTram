@@ -19,6 +19,16 @@ const IndexPage = () => {
       <Head>
         <title>Tram Stop Times</title>
         <link rel="icon" type="image/x-icon" href="/favicon.png" />
+        <meta
+          name="description"
+          content="Website for checking tram stop departure times"
+        />
+        <meta
+          name="keywords"
+          content="HTML, CSS, JavaScript, React, NextJS, tram, metrolink"
+        />
+        <meta name="author" content="Liukaku" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
 
       <motion.div
