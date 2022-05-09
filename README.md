@@ -1,5 +1,7 @@
 # Site for checking the next tram times
 
+Try it on mobile too!
+
 This is a front end built using:
 
 - NextJS
