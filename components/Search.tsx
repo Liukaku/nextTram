@@ -95,7 +95,7 @@ const Search = (props) => {
         className={` ${
           openSeach
             ? `border-black ${
-                openSeach ? `bg-white` : `bg-gray-300`
+                openSeach ? `bg-gray-300` : `bg-gray-300`
               } w-auto z-30 absolute border`
             : `hidden`
         }`}
@@ -111,7 +111,7 @@ const Search = (props) => {
                     transition={{ duration: 0.1 }}
                     key={val.Id.toString()}
                     id={val.Id.toString()}
-                    className={`flex cursor-pointer ${
+                    className={`flex bg-white cursor-pointer ${
                       val.Id == searchID
                         ? `border border-dotted border-black`
                         : ``
