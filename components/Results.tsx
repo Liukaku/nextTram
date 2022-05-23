@@ -46,7 +46,9 @@ const Results = () => {
     <div>
       {loading.searched ? (
         loading.awaiting ? (
-          <div>Waiting</div>
+          <div className="w-100 text-center">
+            <p className="">Waiting</p>
+          </div>
         ) : Object.keys(searchResults).length ? (
           <div>
             {_looper.map((val) => {
