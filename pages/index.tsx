@@ -6,7 +6,7 @@ import Search from "../components/Search";
 import CTX from "../components/util/store";
 import { motion } from "framer-motion";
 
-const IndexPage = () => {
+const IndexPage = ({ url }) => {
   const [searchID, updateSearch] = useState<number>();
 
   useEffect(() => {
@@ -41,10 +41,19 @@ const IndexPage = () => {
           Metrolink Tram Time Checker
         </div>
         <Search />
-        <Results />
+        <Results url={url} />
       </motion.div>
     </CTX.Provider>
   );
 };
 
 export default IndexPage;
+
+export async function getStaticProps() {
+  const apiUrl = process.env.NEXT_PUBLIC_API_URL;
+  return {
+    props: {
+      url: apiUrl,
+    },
+  };
+}

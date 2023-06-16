@@ -12,35 +12,75 @@ interface StopObj {
   StationLocation: string;
   Direction: string;
   Dest0: string;
+  Dest1?: string;
+  Dest2?: string;
+  Wait0: string;
+  Wait1?: string;
+  Wait2?: string;
+  Carriages0: string;
+  Carriages1?: string;
+  Carriages2?: string;
   MessageBoard: String;
 }
 
-const Results = () => {
+interface Props {
+  url: string;
+}
+
+const Results = ({ url }: Props) => {
   const [searchID, updateSearchID] = useContext(CTX);
   const [searchResults, updateResults] = useState<StopObj>();
   const [loading, updateLoading] = useState<LoadingObj>({
     searched: false,
     awaiting: false,
   });
+  const [err, updateErr] = useState<Boolean>(false);
 
   const _looper = [0, 1, 2, 3];
 
   useEffect(() => {
     const fetchData = async () => {
-      const results = await fetch(
-        `https://tram-server.herokuapp.com/api/${searchID}`
-      );
+      const results = await fetch(url, {
+        method: "POST",
+        body: JSON.stringify({ stop: searchID }),
+      });
       const stops = await results.json();
-      return stops;
+      return JSON.parse(stops);
     };
     if (searchID) {
       updateLoading({ searched: true, awaiting: true });
       fetchData().then((res) => {
+        console.log(res);
         updateLoading({ searched: true, awaiting: false });
-        updateResults(res);
+        if (res.error) {
+          console.log(res.error);
+          updateErr(true);
+          generateErrContent();
+        } else {
+          updateResults(res);
+        }
       });
     }
   }, [searchID]);
+
+  function generateErrContent(): void {
+    updateResults({
+      Id: 127854,
+      StationLocation: "Manchester Airport",
+      Direction: "Incoming",
+      Dest0: "Victoria",
+      Wait0: "0",
+      Carriages0: "Double",
+      Dest1: "Victoria",
+      Carriages1: "Single",
+      Wait1: "11",
+      Dest2: "",
+      Carriages2: "",
+      Wait2: "",
+      MessageBoard:
+        "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
+    });
+  }
 
   return (
     <div>
@@ -51,6 +91,12 @@ const Results = () => {
           </div>
         ) : Object.keys(searchResults).length ? (
           <div>
+            {err && (
+              <div className="w-100 text-center">
+                <p>The ID is no longer valid, app needs update</p>
+                <p>Here is a sample response:</p>
+              </div>
+            )}
             {_looper.map((val) => {
               if (searchResults[`Dest${val}`] !== "") {
                 return (

@@ -10,7 +10,7 @@ interface StopObj {
   Dest0: string;
 }
 
-const Search = (props) => {
+const Search = () => {
   const [searchID, updateSearchID] = useContext(CTX);
   const [searchVal, updateSearch] = useState<string>("");
   const [searchResults, updateResults] = useState<Array<StopObj>>([]);
