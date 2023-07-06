@@ -1,1853 +1,1853 @@
 {
-  "@odata.context": "hts://opendataclientapi.azurewebsites.net/odata/$metadata#Metrolinks",
+  "@odata.context": "https://opendataclientapi.azurewebsites.net/odata/$metadata#Metrolinks",
   "value": [
     {
-      "Id": 127854,
+      "Id": 128085,
       "StationLocation": "Manchester Airport",
       "AtcoCode": "9400ZZMAAIR1",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127855,
+      "Id": 128086,
       "StationLocation": "Manchester Airport",
       "AtcoCode": "9400ZZMAAIR1",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127856,
+      "Id": 128087,
       "StationLocation": "Baguley",
       "AtcoCode": "9400ZZMABAG1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127857,
+      "Id": 128088,
       "StationLocation": "Baguley",
       "AtcoCode": "9400ZZMABAG2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127858,
+      "Id": 128089,
       "StationLocation": "Benchill",
       "AtcoCode": "9400ZZMABLL1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127859,
+      "Id": 128090,
       "StationLocation": "Benchill",
       "AtcoCode": "9400ZZMABLL2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127860,
+      "Id": 128091,
       "StationLocation": "Barlow Moor Road",
       "AtcoCode": "9400ZZMABAR1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127861,
+      "Id": 128092,
       "StationLocation": "Barlow Moor Road",
       "AtcoCode": "9400ZZMABAR2",
       "Direction": "Incoming",
-      "Dest0": "",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "Dest0": "Victoria",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127862,
+      "Id": 128093,
       "StationLocation": "Crossacres",
       "AtcoCode": "9400ZZMACSS1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127863,
+      "Id": 128094,
       "StationLocation": "Crossacres",
       "AtcoCode": "9400ZZMACSS2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127864,
+      "Id": 128095,
       "StationLocation": "Martinscroft",
       "AtcoCode": "9400ZZMAMFT2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127865,
+      "Id": 128096,
       "StationLocation": "Martinscroft",
       "AtcoCode": "9400ZZMAMFT1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127866,
+      "Id": 128097,
       "StationLocation": "Moor Road",
       "AtcoCode": "9400ZZMAMRD1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127867,
+      "Id": 128098,
       "StationLocation": "Moor Road",
       "AtcoCode": "9400ZZMAMRD2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127868,
+      "Id": 128099,
       "StationLocation": "Northern Moor",
       "AtcoCode": "9400ZZMANMR1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127869,
+      "Id": 128100,
       "StationLocation": "Northern Moor",
       "AtcoCode": "9400ZZMANMR2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127870,
+      "Id": 128101,
       "StationLocation": "Peel Hall",
       "AtcoCode": "9400ZZMAPLL1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "<no message>"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127871,
+      "Id": 128102,
       "StationLocation": "Peel Hall",
       "AtcoCode": "9400ZZMAPLL2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "<no message>"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127872,
+      "Id": 128103,
       "StationLocation": "Robinswood Road",
       "AtcoCode": "9400ZZMARWD1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127873,
+      "Id": 128104,
       "StationLocation": "Robinswood Road",
       "AtcoCode": "9400ZZMARWD2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127874,
+      "Id": 128105,
       "StationLocation": "Roundthorn",
       "AtcoCode": "9400ZZMARND1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127875,
+      "Id": 128106,
       "StationLocation": "Roundthorn",
       "AtcoCode": "9400ZZMARND2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127876,
+      "Id": 128107,
       "StationLocation": "Roundthorn",
       "AtcoCode": "9400ZZMARND2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127877,
+      "Id": 128108,
       "StationLocation": "Roundthorn",
       "AtcoCode": "9400ZZMARND1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127878,
+      "Id": 128109,
       "StationLocation": "Shadowmoss",
       "AtcoCode": "9400ZZMASDW1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "<no message>"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127879,
+      "Id": 128110,
       "StationLocation": "Shadowmoss",
       "AtcoCode": "9400ZZMASDW2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "<no message>"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127880,
+      "Id": 128111,
       "StationLocation": "Sale Water Park",
       "AtcoCode": "9400ZZMASWP2",
       "Direction": "Incoming",
-      "Dest0": "",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "Dest0": "Victoria",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127881,
+      "Id": 128112,
       "StationLocation": "Sale Water Park",
       "AtcoCode": "9400ZZMASWP1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127882,
+      "Id": 128113,
       "StationLocation": "Wythenshawe Park",
       "AtcoCode": "9400ZZMAWPK1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127883,
+      "Id": 128114,
       "StationLocation": "Wythenshawe Park",
       "AtcoCode": "9400ZZMAWPK2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "On Sunday 18th February early morning services between Manchester Airport and Deansgate Castlefield will be operated by replacement bus.  Please allow extra time for your replacement bus journey."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127884,
+      "Id": 128115,
       "StationLocation": "Wythenshawe Town Centre",
       "AtcoCode": "9400ZZMAWYT2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127885,
+      "Id": 128116,
       "StationLocation": "Wythenshawe Town Centre",
       "AtcoCode": "9400ZZMAWYT2",
       "Direction": "Incoming",
       "Dest0": "Victoria",
-      "MessageBoard": "Due to overhead line damage in the City Centre. Manchester Airport services are running to Deansgate Castlefield only. See TFGM.com for more info"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127886,
+      "Id": 128117,
       "StationLocation": "Wythenshawe Town Centre",
       "AtcoCode": "9400ZZMAWYT1",
       "Direction": "Outgoing",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127887,
+      "Id": 128118,
       "StationLocation": "Altrincham",
       "AtcoCode": "9400ZZMAALT1",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127888,
+      "Id": 128119,
       "StationLocation": "Altrincham",
       "AtcoCode": "9400ZZMAALT1",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127889,
+      "Id": 128120,
       "StationLocation": "Brooklands",
       "AtcoCode": "9400ZZMABKS2",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127890,
+      "Id": 128121,
       "StationLocation": "Brooklands",
       "AtcoCode": "9400ZZMABKS1",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127891,
+      "Id": 128122,
       "StationLocation": "Dane Road",
       "AtcoCode": "9400ZZMADNE1",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127892,
+      "Id": 128123,
       "StationLocation": "Dane Road",
       "AtcoCode": "9400ZZMADNE2",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127893,
+      "Id": 128124,
       "StationLocation": "Deansgate - Castlefield",
       "AtcoCode": "9400ZZMAGMX3",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127894,
+      "Id": 128125,
       "StationLocation": "Deansgate - Castlefield",
       "AtcoCode": "9400ZZMAGMX1",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127895,
+      "Id": 128126,
       "StationLocation": "Deansgate - Castlefield",
       "AtcoCode": "9400ZZMAGMX2",
       "Direction": "Outgoing",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127896,
+      "Id": 128127,
       "StationLocation": "Navigation Road",
       "AtcoCode": "9400ZZMANAV1",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127897,
+      "Id": 128128,
       "StationLocation": "Navigation Road",
       "AtcoCode": "9400ZZMANAV2",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127898,
+      "Id": 128129,
       "StationLocation": "Old Trafford",
       "AtcoCode": "9400ZZMAOLD2",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127899,
+      "Id": 128130,
       "StationLocation": "Old Trafford",
       "AtcoCode": "9400ZZMAOLD1",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127900,
+      "Id": 128131,
       "StationLocation": "Sale",
       "AtcoCode": "9400ZZMASLE2",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127901,
+      "Id": 128132,
       "StationLocation": "Sale",
       "AtcoCode": "9400ZZMASLE1",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127902,
+      "Id": 128133,
       "StationLocation": "Shudehill",
       "AtcoCode": "9400ZZMASHU2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127903,
+      "Id": 128134,
       "StationLocation": "Shudehill",
       "AtcoCode": "9400ZZMASHU1",
       "Direction": "Outgoing",
-      "Dest0": "Victoria",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Bury",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127904,
+      "Id": 128135,
       "StationLocation": "Stretford",
       "AtcoCode": "9400ZZMASFD2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127905,
+      "Id": 128136,
       "StationLocation": "Stretford",
       "AtcoCode": "9400ZZMASFD1",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127906,
+      "Id": 128137,
       "StationLocation": "Trafford Bar",
       "AtcoCode": "9400ZZMATRA1",
       "Direction": "Incoming",
-      "Dest0": "Victoria",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127907,
+      "Id": 128138,
       "StationLocation": "Trafford Bar",
       "AtcoCode": "9400ZZMATRA2",
       "Direction": "Outgoing",
-      "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "East Didsbury",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127908,
+      "Id": 128139,
       "StationLocation": "Timperley",
       "AtcoCode": "9400ZZMATIM2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127909,
+      "Id": 128140,
       "StationLocation": "Timperley",
       "AtcoCode": "9400ZZMATIM1",
       "Direction": "Outgoing",
       "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127910,
+      "Id": 128141,
       "StationLocation": "Victoria",
       "AtcoCode": "9400ZZMAVIC4",
       "Direction": "Incoming",
-      "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127911,
+      "Id": 128142,
       "StationLocation": "Victoria",
       "AtcoCode": "9400ZZMAVIC3",
       "Direction": "Incoming",
       "Dest0": "Manchester Airport",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127912,
+      "Id": 128143,
       "StationLocation": "Victoria",
       "AtcoCode": "9400ZZMAVIC2",
       "Direction": "Outgoing",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127913,
+      "Id": 128144,
       "StationLocation": "Victoria",
       "AtcoCode": "9400ZZMAVIC1",
       "Direction": "Outgoing",
-      "Dest0": "Shaw and Crompton",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127914,
+      "Id": 128145,
       "StationLocation": "Abraham Moss",
       "AtcoCode": "9400ZZMAABM2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127915,
+      "Id": 128146,
       "StationLocation": "Abraham Moss",
       "AtcoCode": "9400ZZMAABM1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127916,
+      "Id": 128147,
       "StationLocation": "Bowker Vale",
       "AtcoCode": "9400ZZMABOW2",
       "Direction": "Incoming",
-      "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127917,
+      "Id": 128148,
       "StationLocation": "Bowker Vale",
       "AtcoCode": "9400ZZMABOW1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127918,
+      "Id": 128149,
       "StationLocation": "Besses O\u2019 Th\u2019 Barn",
       "AtcoCode": "9400ZZMABOB2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127919,
+      "Id": 128150,
       "StationLocation": "Besses O\u2019 Th\u2019 Barn",
       "AtcoCode": "9400ZZMABOB1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127920,
+      "Id": 128151,
       "StationLocation": "Bury",
       "AtcoCode": "9400ZZMABUR2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127921,
+      "Id": 128152,
       "StationLocation": "Bury",
       "AtcoCode": "9400ZZMABUR1",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127922,
+      "Id": 128153,
       "StationLocation": "Crumpsall",
       "AtcoCode": "9400ZZMACRU2",
       "Direction": "Incoming",
-      "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127923,
+      "Id": 128154,
       "StationLocation": "Crumpsall",
       "AtcoCode": "9400ZZMACRU1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127924,
+      "Id": 128155,
       "StationLocation": "Crumpsall",
       "AtcoCode": "9400ZZMACRU3",
       "Direction": "Incoming/Outgoing",
-      "Dest0": "Not in Service",
-      "MessageBoard": "Due to overhead line damage Bury line operating to Abraham Moss only. Tickets accepted on 17 18 41 52 53 56 66 90 95 97 98 112 117 118 119 135 156 163 524 & Bespoke Metrolink buses."
+      "Dest0": "",
+      "MessageBoard": "ENGINEERING WORKS: On Sunday 30th January there are no services operating on the Bury line.. Replacement buses will be in operation between Bury & Piccadilly. See TfGM.com for more info"
     },
     {
-      "Id": 127925,
+      "Id": 128156,
       "StationLocation": "Heaton Park",
       "AtcoCode": "9400ZZMAHEA1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127926,
+      "Id": 128157,
       "StationLocation": "Heaton Park",
       "AtcoCode": "9400ZZMAHEA2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127927,
+      "Id": 128158,
       "StationLocation": "Market Street",
       "AtcoCode": "9400ZZMAMKT2",
       "Direction": "Outgoing",
-      "Dest0": "Victoria",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Bury",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127928,
+      "Id": 128159,
       "StationLocation": "Market Street",
       "AtcoCode": "9400ZZMAMKT1",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F0dbl 8 min^F0Altrincham (Market St)^J^F0dbl 12 min"
+      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F05 min"
     },
     {
-      "Id": 127929,
+      "Id": 128160,
       "StationLocation": "Piccadilly Gardens",
       "AtcoCode": "9400ZZMAPGD2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F0dbl 8 min^F0Altrincham (Market St)^J^F0dbl 12 min"
+      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F05 min"
     },
     {
-      "Id": 127930,
+      "Id": 128161,
       "StationLocation": "Piccadilly Gardens",
       "AtcoCode": "9400ZZMAPGD1",
       "Direction": "Outgoing",
-      "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127931,
+      "Id": 128162,
       "StationLocation": "Piccadilly Gardens",
       "AtcoCode": "9400ZZMAPGD1",
       "Direction": "Outgoing",
-      "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127932,
+      "Id": 128163,
       "StationLocation": "Piccadilly Gardens",
       "AtcoCode": "9400ZZMAPGD2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F0dbl 8 min^F0Altrincham (Market St)^J^F0dbl 12 min"
+      "MessageBoard": "^F0Next Altrincham Departures:^F0Altrincham (Picc Gdns)^J^F05 min"
     },
     {
-      "Id": 127933,
+      "Id": 128164,
       "StationLocation": "Piccadilly",
       "AtcoCode": "9400ZZMAPIC1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127934,
+      "Id": 128165,
       "StationLocation": "Piccadilly",
       "AtcoCode": "9400ZZMAPIC2",
       "Direction": "Incoming",
-      "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Eccles via MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127935,
+      "Id": 128166,
       "StationLocation": "Prestwich",
       "AtcoCode": "9400ZZMAPWC2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127936,
+      "Id": 128167,
       "StationLocation": "Prestwich",
       "AtcoCode": "9400ZZMAPWC1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127937,
+      "Id": 128168,
       "StationLocation": "Queens Road",
       "AtcoCode": "9400ZZMAQRD2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127938,
+      "Id": 128169,
       "StationLocation": "Queens Road",
       "AtcoCode": "9400ZZMAQRD1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127939,
+      "Id": 128170,
       "StationLocation": "Radcliffe",
       "AtcoCode": "9400ZZMARAD1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127940,
+      "Id": 128171,
       "StationLocation": "Radcliffe",
       "AtcoCode": "9400ZZMARAD2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127941,
+      "Id": 128172,
       "StationLocation": "Whitefield",
       "AtcoCode": "9400ZZMAWFD2",
       "Direction": "Incoming",
       "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127942,
+      "Id": 128173,
       "StationLocation": "Whitefield",
       "AtcoCode": "9400ZZMAWFD1",
       "Direction": "Outgoing",
       "Dest0": "Bury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127943,
+      "Id": 128174,
       "StationLocation": "Ashton-Under-Lyne",
       "AtcoCode": "9400ZZMAAUL1",
       "Direction": "Outgoing",
       "Dest0": "",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127944,
+      "Id": 128175,
       "StationLocation": "Ashton-Under-Lyne",
       "AtcoCode": "9400ZZMAAUL1",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127945,
+      "Id": 128176,
       "StationLocation": "Ashton-Under-Lyne",
       "AtcoCode": "9400ZZMAAUL2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127946,
+      "Id": 128177,
       "StationLocation": "Ashton-Under-Lyne",
       "AtcoCode": "9400ZZMAAUL2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127947,
+      "Id": 128178,
       "StationLocation": "Ashton Moss",
       "AtcoCode": "9400ZZMAAMO1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127948,
+      "Id": 128179,
       "StationLocation": "Ashton Moss",
       "AtcoCode": "9400ZZMAAMO2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127949,
+      "Id": 128180,
       "StationLocation": "Ashton West",
       "AtcoCode": "9400ZZMAAWT1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127950,
+      "Id": 128181,
       "StationLocation": "Ashton West",
       "AtcoCode": "9400ZZMAAWT2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127951,
+      "Id": 128182,
       "StationLocation": "Audenshaw",
       "AtcoCode": "9400ZZMAAUD1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127952,
+      "Id": 128183,
       "StationLocation": "Audenshaw",
       "AtcoCode": "9400ZZMAAUD2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127953,
+      "Id": 128184,
       "StationLocation": "Cemetery Road",
       "AtcoCode": "9400ZZMACEM1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127954,
+      "Id": 128185,
       "StationLocation": "Cemetery Road",
       "AtcoCode": "9400ZZMACEM2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127955,
+      "Id": 128186,
       "StationLocation": "Clayton Hall",
       "AtcoCode": "9400ZZMACLN2",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127956,
+      "Id": 128187,
       "StationLocation": "Clayton Hall",
       "AtcoCode": "9400ZZMACLN1",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127957,
+      "Id": 128188,
       "StationLocation": "Clayton Hall",
       "AtcoCode": "9400ZZMACLN1",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127958,
+      "Id": 128189,
       "StationLocation": "Droylsden",
       "AtcoCode": "9400ZZMADRO1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127959,
+      "Id": 128190,
       "StationLocation": "Droylsden",
       "AtcoCode": "9400ZZMADRO2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127960,
+      "Id": 128191,
       "StationLocation": "Edge Lane",
       "AtcoCode": "9400ZZMAELN2",
       "Direction": "Outgoing",
-      "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Due to overhead line damage there are service changes on all lines. For all information on this and replacement buses please see TFGM.com"
+      "Dest0": "",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127961,
+      "Id": 128192,
       "StationLocation": "Edge Lane",
       "AtcoCode": "9400ZZMAELN1",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127962,
+      "Id": 128193,
       "StationLocation": "Edge Lane",
       "AtcoCode": "9400ZZMAELN1",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127963,
+      "Id": 128194,
       "StationLocation": "Edge Lane",
       "AtcoCode": "9400ZZMAELN2",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127964,
+      "Id": 128195,
       "StationLocation": "Holt Town",
       "AtcoCode": "9400ZZMAHTN1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127965,
+      "Id": 128196,
       "StationLocation": "Holt Town",
       "AtcoCode": "9400ZZMAHTN2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127966,
+      "Id": 128197,
       "StationLocation": "New Islington",
       "AtcoCode": "9400ZZMANIS1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127967,
+      "Id": 128198,
       "StationLocation": "New Islington",
       "AtcoCode": "9400ZZMANIS2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127968,
+      "Id": 128199,
       "StationLocation": "Etihad Campus",
       "AtcoCode": "9400ZZMAECS2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127969,
+      "Id": 128200,
       "StationLocation": "Etihad Campus",
       "AtcoCode": "9400ZZMAECS2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127970,
+      "Id": 128201,
       "StationLocation": "Etihad Campus",
       "AtcoCode": "9400ZZMAECS1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127971,
+      "Id": 128202,
       "StationLocation": "Etihad Campus",
       "AtcoCode": "9400ZZMAECS1",
       "Direction": "Outgoing",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127972,
+      "Id": 128203,
       "StationLocation": "Velopark",
       "AtcoCode": "9400ZZMAVPK1",
       "Direction": "Outgoing",
-      "Dest0": "",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127973,
+      "Id": 128204,
       "StationLocation": "Velopark",
       "AtcoCode": "9400ZZMAVPK2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127974,
+      "Id": 128205,
       "StationLocation": "Velopark",
       "AtcoCode": "9400ZZMAVPK2",
       "Direction": "Incoming",
       "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127975,
+      "Id": 128206,
       "StationLocation": "Anchorage",
       "AtcoCode": "9400ZZMAANC2",
       "Direction": "Incoming",
-      "Dest0": "Cornbrook",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127976,
+      "Id": 128207,
       "StationLocation": "Anchorage",
       "AtcoCode": "9400ZZMAANC1",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127977,
+      "Id": 128208,
       "StationLocation": "Broadway",
       "AtcoCode": "9400ZZMABWY2",
       "Direction": "Incoming",
       "Dest0": "Ashton via MCUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127978,
+      "Id": 128209,
       "StationLocation": "Broadway",
       "AtcoCode": "9400ZZMABWY1",
       "Direction": "Outgoing",
       "Dest0": "Eccles",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127979,
+      "Id": 128210,
       "StationLocation": "Cornbrook",
       "AtcoCode": "9400ZZMACRN1",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham line may experience a delay to services."
+      "Dest0": "Deansgate Castlefield",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127980,
+      "Id": 128211,
       "StationLocation": "Cornbrook",
       "AtcoCode": "9400ZZMACRN1",
       "Direction": "Incoming",
-      "Dest0": "Piccadilly",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Deansgate Castlefield",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127981,
+      "Id": 128212,
       "StationLocation": "Cornbrook",
       "AtcoCode": "9400ZZMACRN2",
       "Direction": "Outgoing",
-      "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127982,
+      "Id": 128213,
       "StationLocation": "Cornbrook",
       "AtcoCode": "9400ZZMACRN2",
       "Direction": "Outgoing",
-      "Dest0": "Altrincham",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127983,
+      "Id": 128214,
       "StationLocation": "Eccles",
       "AtcoCode": "9400ZZMAECC1",
       "Direction": "Incoming",
       "Dest0": "Ashton via MCUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127984,
+      "Id": 128215,
       "StationLocation": "Exchange Quay",
       "AtcoCode": "9400ZZMAEXC2",
       "Direction": "Incoming",
       "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127985,
+      "Id": 128216,
       "StationLocation": "Exchange Quay",
       "AtcoCode": "9400ZZMAEXC1",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "<no message>"
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127986,
+      "Id": 128217,
       "StationLocation": "Exchange Square",
       "AtcoCode": "9400ZZMAEXS2",
       "Direction": "Outgoing",
-      "Dest0": "Shaw and Crompton",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127987,
+      "Id": 128218,
       "StationLocation": "Exchange Square",
       "AtcoCode": "9400ZZMAEXS1",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127988,
+      "Id": 128219,
       "StationLocation": "Harbour City",
       "AtcoCode": "9400ZZMAHCY2",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127989,
+      "Id": 128220,
       "StationLocation": "Harbour City",
       "AtcoCode": "9400ZZMAHCY1",
       "Direction": "Incoming",
-      "Dest0": "Cornbrook",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127990,
+      "Id": 128221,
       "StationLocation": "Ladywell",
       "AtcoCode": "9400ZZMALDY2",
       "Direction": "Incoming",
       "Dest0": "Ashton via MCUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127991,
+      "Id": 128222,
       "StationLocation": "Ladywell",
       "AtcoCode": "9400ZZMALDY1",
       "Direction": "Outgoing",
       "Dest0": "Eccles",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127992,
+      "Id": 128223,
       "StationLocation": "Langworthy",
       "AtcoCode": "9400ZZMALWY2",
       "Direction": "Incoming",
       "Dest0": "Ashton via MCUK",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127993,
+      "Id": 128224,
       "StationLocation": "Langworthy",
       "AtcoCode": "9400ZZMALWY1",
       "Direction": "Outgoing",
       "Dest0": "Eccles",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127994,
+      "Id": 128225,
       "StationLocation": "MediaCityUK",
       "AtcoCode": "9400ZZMAMCU1",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127995,
+      "Id": 128226,
       "StationLocation": "MediaCityUK",
       "AtcoCode": "9400ZZMAMCU1",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127996,
+      "Id": 128227,
       "StationLocation": "MediaCityUK",
       "AtcoCode": "9400ZZMAMCU2",
       "Direction": "Incoming",
       "Dest0": "Eccles",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127997,
+      "Id": 128228,
       "StationLocation": "MediaCityUK",
       "AtcoCode": "9400ZZMAMCU2",
       "Direction": "Incoming",
       "Dest0": "Eccles",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127998,
+      "Id": 128229,
       "StationLocation": "Pomona",
       "AtcoCode": "9400ZZMAPOM1",
       "Direction": "Incoming",
-      "Dest0": "Ashton-under-Lyne",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "Deansgate Castlefield",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 127999,
+      "Id": 128230,
       "StationLocation": "Pomona",
       "AtcoCode": "9400ZZMAPOM2",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128000,
+      "Id": 128231,
       "StationLocation": "Salford Quays",
       "AtcoCode": "9400ZZMASQY1",
       "Direction": "Incoming",
-      "Dest0": "Cornbrook",
-      "MessageBoard": "Please see printed posters forfirst and last tram times.info: www.metrolink.co.uk"
+      "Dest0": "Ashton-under-Lyne",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128001,
+      "Id": 128232,
       "StationLocation": "Salford Quays",
       "AtcoCode": "9400ZZMASQY2",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "MediaCityUK",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128002,
+      "Id": 128233,
       "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS4",
+      "AtcoCode": "9400ZZMASTP4",
       "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Manchester Airport",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128003,
+      "Id": 128234,
       "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS3",
-      "Direction": "Outgoing",
-      "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
-    },
-    {
-      "Id": 128004,
-      "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS4",
-      "Direction": "Outgoing",
-      "Dest0": "Eccles via MediaCityUK",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
-    },
-    {
-      "Id": 128005,
-      "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS3",
+      "AtcoCode": "9400ZZMASTP3",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128006,
+      "Id": 128235,
       "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS1",
+      "AtcoCode": "9400ZZMASTP4",
+      "Direction": "Outgoing",
+      "Dest0": "Manchester Airport",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
+    },
+    {
+      "Id": 128236,
+      "StationLocation": "St Peter's Square",
+      "AtcoCode": "9400ZZMASTP3",
+      "Direction": "Outgoing",
+      "Dest0": "East Didsbury",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
+    },
+    {
+      "Id": 128237,
+      "StationLocation": "St Peter's Square",
+      "AtcoCode": "9400ZZMASTP1",
       "Direction": "Incoming",
-      "Dest0": "Victoria",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "Dest0": "Piccadilly",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128007,
+      "Id": 128238,
       "StationLocation": "St Peter's Square",
-      "AtcoCode": "9400ZZMAS2",
+      "AtcoCode": "9400ZZMASTP2",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the Bury - Altrincham and East Didsbury - Rochdale lines may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128008,
+      "Id": 128239,
       "StationLocation": "Weaste",
       "AtcoCode": "9400ZZMAWST1",
       "Direction": "Outgoing",
       "Dest0": "Eccles",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128009,
+      "Id": 128240,
       "StationLocation": "Weaste",
       "AtcoCode": "9400ZZMAWST2",
       "Direction": "Incoming",
       "Dest0": "Ashton via MCUK",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128010,
+      "Id": 128241,
       "StationLocation": "Central Park",
-      "AtcoCode": "9400ZZMAC2",
+      "AtcoCode": "9400ZZMACTP2",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128011,
+      "Id": 128242,
       "StationLocation": "Central Park",
-      "AtcoCode": "9400ZZMAC1",
+      "AtcoCode": "9400ZZMACTP1",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128012,
+      "Id": 128243,
       "StationLocation": "Derker",
       "AtcoCode": "9400ZZMADER1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "<no message>"
     },
     {
-      "Id": 128013,
+      "Id": 128244,
       "StationLocation": "Derker",
       "AtcoCode": "9400ZZMADER2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128014,
+      "Id": 128245,
       "StationLocation": "Failsworth",
       "AtcoCode": "9400ZZMAFWH1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128015,
+      "Id": 128246,
       "StationLocation": "Failsworth",
       "AtcoCode": "9400ZZMAFWH2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128016,
+      "Id": 128247,
       "StationLocation": "Freehold",
       "AtcoCode": "9400ZZMAFRE1",
       "Direction": "Outgoing",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128017,
+      "Id": 128248,
       "StationLocation": "Freehold",
       "AtcoCode": "9400ZZMAFRE2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128018,
+      "Id": 128249,
       "StationLocation": "Hollinwood",
       "AtcoCode": "9400ZZMAHOL1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128019,
+      "Id": 128250,
       "StationLocation": "Hollinwood",
       "AtcoCode": "9400ZZMAHOL2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128020,
+      "Id": 128251,
       "StationLocation": "Kingsway Business Park",
       "AtcoCode": "9400ZZMAKNY1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128021,
+      "Id": 128252,
       "StationLocation": "Kingsway Business Park",
       "AtcoCode": "9400ZZMAKNY2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128022,
+      "Id": 128253,
       "StationLocation": "Milnrow",
       "AtcoCode": "9400ZZMAMIL1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128023,
+      "Id": 128254,
       "StationLocation": "Milnrow",
       "AtcoCode": "9400ZZMAMIL2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128024,
+      "Id": 128255,
       "StationLocation": "Monsall",
       "AtcoCode": "9400ZZMAMON1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128025,
+      "Id": 128256,
       "StationLocation": "Monsall",
       "AtcoCode": "9400ZZMAMON2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128026,
+      "Id": 128257,
       "StationLocation": "Newbold",
       "AtcoCode": "9400ZZMANBD1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128027,
+      "Id": 128258,
       "StationLocation": "Newbold",
       "AtcoCode": "9400ZZMANBD2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128028,
+      "Id": 128259,
       "StationLocation": "Newhey",
       "AtcoCode": "9400ZZMANHY1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128029,
+      "Id": 128260,
       "StationLocation": "Newhey",
       "AtcoCode": "9400ZZMANHY2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128030,
+      "Id": 128261,
       "StationLocation": "Newton Heath and Moston",
       "AtcoCode": "9400ZZMANEW1",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128031,
+      "Id": 128262,
       "StationLocation": "Newton Heath and Moston",
       "AtcoCode": "9400ZZMANEW2",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128032,
+      "Id": 128263,
       "StationLocation": "Oldham Central",
       "AtcoCode": "9400ZZMAOMC1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128033,
+      "Id": 128264,
       "StationLocation": "Oldham Central",
       "AtcoCode": "9400ZZMAOMC2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128034,
+      "Id": 128265,
       "StationLocation": "Oldham Central",
       "AtcoCode": "9400ZZMAOMC2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128035,
+      "Id": 128266,
       "StationLocation": "Oldham Central",
       "AtcoCode": "9400ZZMAOMC1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128036,
+      "Id": 128267,
       "StationLocation": "Oldham King Street",
       "AtcoCode": "9400ZZMAOKS1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128037,
+      "Id": 128268,
       "StationLocation": "Oldham King Street",
       "AtcoCode": "9400ZZMAOKS2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128038,
+      "Id": 128269,
       "StationLocation": "Oldham Mumps",
       "AtcoCode": "9400ZZMAOMP1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128039,
+      "Id": 128270,
       "StationLocation": "Oldham Mumps",
       "AtcoCode": "9400ZZMAOMP2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128040,
+      "Id": 128271,
       "StationLocation": "Rochdale Railway Station",
       "AtcoCode": "9400ZZMARRS1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128041,
+      "Id": 128272,
       "StationLocation": "Rochdale Railway Station",
       "AtcoCode": "9400ZZMARRS1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128042,
+      "Id": 128273,
       "StationLocation": "Rochdale Railway Station",
       "AtcoCode": "9400ZZMARRS2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128043,
+      "Id": 128274,
       "StationLocation": "Rochdale Railway Station",
       "AtcoCode": "9400ZZMARRS2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128044,
+      "Id": 128275,
       "StationLocation": "Rochdale Town Centre",
       "AtcoCode": "9400ZZMARIN1",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128045,
+      "Id": 128276,
       "StationLocation": "Rochdale Town Centre",
       "AtcoCode": "9400ZZMARIN2",
       "Direction": "Outgoing",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128046,
+      "Id": 128277,
       "StationLocation": "Rochdale Town Centre",
       "AtcoCode": "9400ZZMARIN2",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128047,
+      "Id": 128278,
       "StationLocation": "Rochdale Town Centre",
       "AtcoCode": "9400ZZMARIN1",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "On the evening of Friday 30th June Lancashire play Yorkshire in aT20 match at Emirates Old Trafford. Services are expected to be busier than usual. Please allow extra time for travel."
     },
     {
-      "Id": 128048,
+      "Id": 128279,
       "StationLocation": "Shaw and Crompton",
       "AtcoCode": "9400ZZMASHA1",
       "Direction": "Outgoing",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128049,
+      "Id": 128280,
       "StationLocation": "Shaw and Crompton",
       "AtcoCode": "9400ZZMASHA2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128050,
+      "Id": 128281,
       "StationLocation": "Shaw and Crompton",
       "AtcoCode": "9400ZZMASHA3",
       "Direction": "Incoming",
-      "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "",
+      "MessageBoard": "By law you must wear a face covering when using Metrolink unless you are under 11 or unable to wear one due to a health condition or disability."
     },
     {
-      "Id": 128051,
+      "Id": 128282,
       "StationLocation": "South Chadderton",
       "AtcoCode": "9400ZZMASCH1",
       "Direction": "Outgoing",
-      "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128052,
+      "Id": 128283,
       "StationLocation": "South Chadderton",
       "AtcoCode": "9400ZZMASCH2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128053,
+      "Id": 128284,
       "StationLocation": "Westwood",
       "AtcoCode": "9400ZZMAWWD1",
       "Direction": "Outgoing",
-      "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128054,
+      "Id": 128285,
       "StationLocation": "Westwood",
       "AtcoCode": "9400ZZMAWWD2",
       "Direction": "Incoming",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128055,
+      "Id": 128286,
       "StationLocation": "Burton Road",
       "AtcoCode": "9400ZZMABNR2",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128056,
+      "Id": 128287,
       "StationLocation": "Burton Road",
       "AtcoCode": "9400ZZMABNR1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128057,
+      "Id": 128288,
       "StationLocation": "Chorlton",
       "AtcoCode": "9400ZZMACHO1",
       "Direction": "Outgoing",
-      "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Manchester Airport",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128058,
+      "Id": 128289,
       "StationLocation": "Chorlton",
       "AtcoCode": "9400ZZMACHO2",
       "Direction": "Incoming",
-      "Dest0": "Shaw and Crompton",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128059,
+      "Id": 128290,
       "StationLocation": "Didsbury Village",
       "AtcoCode": "9400ZZMADID2",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128060,
+      "Id": 128291,
       "StationLocation": "Didsbury Village",
       "AtcoCode": "9400ZZMADID1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128061,
+      "Id": 128292,
       "StationLocation": "East Didsbury",
       "AtcoCode": "9400ZZMAEDY2",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128062,
+      "Id": 128293,
       "StationLocation": "East Didsbury",
       "AtcoCode": "9400ZZMAEDY2",
       "Direction": "Incoming",
       "Dest0": "",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128063,
+      "Id": 128294,
       "StationLocation": "East Didsbury",
       "AtcoCode": "9400ZZMAEDY1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128064,
+      "Id": 128295,
       "StationLocation": "East Didsbury",
       "AtcoCode": "9400ZZMAEDY1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128065,
+      "Id": 128296,
       "StationLocation": "Firswood",
       "AtcoCode": "9400ZZMAFIR2",
       "Direction": "Outgoing",
-      "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Manchester Airport",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128066,
+      "Id": 128297,
       "StationLocation": "Firswood",
       "AtcoCode": "9400ZZMAFIR1",
       "Direction": "Incoming",
-      "Dest0": "Shaw and Crompton",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128067,
+      "Id": 128298,
       "StationLocation": "St Werburgh\u2019s Road",
       "AtcoCode": "9400ZZMASTW2",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128068,
+      "Id": 128299,
       "StationLocation": "St Werburgh\u2019s Road",
       "AtcoCode": "9400ZZMASTW1",
       "Direction": "Incoming",
-      "Dest0": "Shaw and Crompton",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "Dest0": "Rochdale Town Centre",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128069,
+      "Id": 128300,
       "StationLocation": "West Didsbury",
       "AtcoCode": "9400ZZMAWTD2",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128070,
+      "Id": 128301,
       "StationLocation": "West Didsbury",
       "AtcoCode": "9400ZZMAWTD1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128071,
+      "Id": 128302,
       "StationLocation": "Withington",
       "AtcoCode": "9400ZZMAWIT2",
       "Direction": "Outgoing",
       "Dest0": "East Didsbury",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128072,
+      "Id": 128303,
       "StationLocation": "Withington",
       "AtcoCode": "9400ZZMAWIT1",
       "Direction": "Incoming",
       "Dest0": "Rochdale Town Centre",
-      "MessageBoard": "Due to a tram fault customers on the East Didsbury - Rochdale line may experience a delay to services."
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128073,
+      "Id": 128304,
       "StationLocation": "Barton Dock Road",
       "AtcoCode": "9400ZZMAEVC1",
       "Direction": "Incoming",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128074,
+      "Id": 128305,
       "StationLocation": "Barton Dock Road",
       "AtcoCode": "9400ZZMAEVC2",
       "Direction": "Outgoing",
       "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128075,
+      "Id": 128306,
       "StationLocation": "Imperial War Museum",
       "AtcoCode": "9400ZZMAIWM2",
       "Direction": "Outgoing",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128076,
+      "Id": 128307,
       "StationLocation": "Imperial War Museum",
       "AtcoCode": "9400ZZMAIWM1",
       "Direction": "Incoming",
       "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "<no message>"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128077,
+      "Id": 128308,
       "StationLocation": "Parkway",
       "AtcoCode": "9400ZZMAPAR2",
       "Direction": "Outgoing",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128078,
+      "Id": 128309,
       "StationLocation": "Parkway",
       "AtcoCode": "9400ZZMAPAR1",
       "Direction": "Incoming",
       "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128079,
+      "Id": 128310,
       "StationLocation": "The Trafford Centre",
       "AtcoCode": "9400ZZMATRC2",
       "Direction": "Outgoing",
-      "Dest0": "",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "Deansgate Castlefield",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128080,
+      "Id": 128311,
       "StationLocation": "The Trafford Centre",
       "AtcoCode": "9400ZZMATRC1",
       "Direction": "Incoming",
-      "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "Dest0": "",
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128081,
+      "Id": 128312,
       "StationLocation": "Village",
       "AtcoCode": "9400ZZMAVLG2",
       "Direction": "Outgoing",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128082,
+      "Id": 128313,
       "StationLocation": "Village",
       "AtcoCode": "9400ZZMAVLG1",
       "Direction": "Incoming",
       "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128083,
+      "Id": 128314,
       "StationLocation": "Wharfside",
       "AtcoCode": "9400ZZMAWFS2",
       "Direction": "Outgoing",
       "Dest0": "The Trafford Centre",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     },
     {
-      "Id": 128084,
+      "Id": 128315,
       "StationLocation": "Wharfside",
       "AtcoCode": "9400ZZMAWFS1",
       "Direction": "Incoming",
       "Dest0": "Deansgate Castlefield",
-      "MessageBoard": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey"
+      "MessageBoard": "ENGINEERING WORKS - Saturday 8th and Sunday 9th July no trams Rochdale - Freehold. Bus replacement will be in operation. For all service information visit TFGM.com"
     }
   ]
 }

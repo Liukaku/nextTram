@@ -49,21 +49,32 @@ const Results = ({ url }: Props) => {
     };
     if (searchID) {
       updateLoading({ searched: true, awaiting: true });
-      fetchData().then((res) => {
-        console.log(res);
-        updateLoading({ searched: true, awaiting: false });
-        if (res.error) {
-          console.log(res.error);
+      fetchData()
+        .then((res) => {
+          console.log(res);
+          updateLoading({ searched: true, awaiting: false });
+          if (res.error) {
+            // the metrolink api itself can return an error but the lambda function is still working
+            console.error(res.error);
+            updateErr(true);
+            generateErrContent();
+          } else {
+            // if you have had an error but it is now working again, reset the error state
+            updateErr(false);
+            updateResults(res);
+          }
+        })
+        .catch((err) => {
+          console.error(err);
           updateErr(true);
+          updateLoading({ searched: true, awaiting: false });
           generateErrContent();
-        } else {
-          updateResults(res);
-        }
-      });
+        });
     }
   }, [searchID]);
 
   function generateErrContent(): void {
+    console.log("err");
     updateResults({
       Id: 127854,
       StationLocation: "Manchester Airport",
@@ -93,7 +104,7 @@ const Results = ({ url }: Props) => {
           <div>
             {err && (
               <div className="w-100 text-center">
-                <p>The ID is no longer valid, app needs update</p>
+                <p>The stop ID is no longer valid, app needs update</p>
                 <p>Here is a sample response:</p>
               </div>
             )}
