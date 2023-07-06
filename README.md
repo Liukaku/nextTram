@@ -11,6 +11,10 @@ This is a front end built using:
 
 This connects to a NodeJS Express API server which handles requests made to the Metrolink API
 
+The back end was written in Java and deployed in AWS Lambda through the API Gateway
+
+[Github Repo](https://github.com/Liukaku/metroLambda)
+
 Yes the look was intentional
 
 ##
