@@ -1,5 +1,4 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
-import stops from "./util/stops.json";
 import CTX from "./util/store";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -10,7 +9,13 @@ interface StopObj {
   Dest0: string;
 }
 
-const Search = () => {
+interface SearchProps {
+  stops: {
+    value: StopObj[];
+  };
+}
+
+const Search = ({ stops }: SearchProps) => {
   const [searchID, updateSearchID] = useContext(CTX);
   const [searchVal, updateSearch] = useState<string>("");
   const [searchResults, updateResults] = useState<Array<StopObj>>([]);
