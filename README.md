@@ -11,9 +11,15 @@ This is a front end built using:
 
 This connects to a NodeJS Express API server which handles requests made to the Metrolink API
 
+The back end is written in 2 languages for experimentation.
+
 The back end was written in Java and deployed in AWS Lambda through the API Gateway
 
 [Github Repo](https://github.com/Liukaku/metroLambda)
+
+This is kept up to date automatically through a Golang lambda, S3 and AWS Event Scheduler
+
+[Github Repo](https://github.com/Liukaku/checkMetro)
 
 Yes the look was intentional
 
